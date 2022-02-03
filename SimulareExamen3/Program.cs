@@ -37,6 +37,7 @@ namespace SimulareExamen3
                 {
                     Console.WriteLine("Numarul introdus nu este corect, introduceti un alt numar!");
                 }
+                Console.WriteLine("Tastati o alta comanda!");
                 nr = Convert.ToInt32(Console.ReadLine());
             }
 
